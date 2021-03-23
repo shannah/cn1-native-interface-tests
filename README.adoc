@@ -1,0 +1,3 @@
+= Codename One Native Interface Test
+
+This is a small https://www.codenameone.com[Codename One] test application that is used for integration testing.
